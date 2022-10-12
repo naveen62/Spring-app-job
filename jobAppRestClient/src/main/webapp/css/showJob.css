@@ -1,0 +1,15 @@
+.img-modal-container {
+    margin-left: 17px;
+    z-index: 100;
+}
+.change-btn-container {
+	margin-top: 20px;
+	text-align: center;
+}
+.table-img-container {
+	text-align: center;
+	cursor: pointer;
+}
+#change-link {
+	pointer-events: auto;
+}
